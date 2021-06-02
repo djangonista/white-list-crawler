@@ -7,5 +7,5 @@ openpyxl==3.0.2
 PyQt5==5.13.2
 PyQt5-sip==12.7.0
 requests==2.22.0
-urllib3==1.25.7
+urllib3==1.26.5
 wget==3.2
